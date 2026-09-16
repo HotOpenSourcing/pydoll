@@ -121,7 +121,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -171,3 +170,5 @@ tools/
 private-studies/
 FINGERPRINT_AUDIT_*
 FINGERPRINT_TRACES_*
+config.bat
+node_modules
